@@ -1,5 +1,20 @@
 # Changelog
 
+## \[2.6.0]
+
+### New Features
+
+- [`cc5c97602`](https://www.github.com/tauri-apps/tauri/commit/cc5c976027b0ab2431c13ec5b2e201d4414a8a6e) ([#14486](https://www.github.com/tauri-apps/tauri/pull/14486) by [@lucasfernog](https://www.github.com/tauri-apps/tauri/../../lucasfernog)) Implement file association for Android and iOS.
+
+### Enhancements
+
+- [`d730770bb`](https://www.github.com/tauri-apps/tauri/commit/d730770bb93d77358cfc6f1286f10187cef37362) ([#15117](https://www.github.com/tauri-apps/tauri/pull/15117) by [@sftse](https://www.github.com/tauri-apps/tauri/../../sftse)) Simplify async-sync code boundaries, no externally visible changes
+
+### Dependencies
+
+- Upgraded to `tauri-utils@2.9.0`
+- Upgraded to `tauri-codegen@2.5.6`
+
 ## \[2.5.6]
 
 ### Dependencies

@@ -1,5 +1,11 @@
 # Changelog
 
+## \[2.11.0]
+
+### New Features
+
+- [`074299c08`](https://www.github.com/tauri-apps/tauri/commit/074299c08dd99d2e1c57796f55ab24bc1d3976cc) ([#14307](https://www.github.com/tauri-apps/tauri/pull/14307) by [@signadou](https://www.github.com/tauri-apps/tauri/../../signadou)) Add Bring All to Front predefined menu item type
+
 ## \[2.10.1]
 
 ### Bug Fixes
